@@ -1,19 +1,3 @@
 # TestSwarm
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `test_swarm` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [{:test_swarm, "~> 0.1.0"}]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/test_swarm](https://hexdocs.pm/test_swarm).
-
+Run `iex -S mix` and run `TestSwarm.Helper.test()` and there should be an exception about the process not being started.
